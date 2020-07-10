@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\1stDemo\1stDemo\main.cpp(67,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\1stDemo\1stDemo\main.cpp(79,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 78 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  1stDemo.vcxproj -> D:\1stDemo\x64\Release\1stDemo.exe

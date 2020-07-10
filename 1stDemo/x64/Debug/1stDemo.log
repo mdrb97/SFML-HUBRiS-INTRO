@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(91,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(96,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(99,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(99,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(113,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(113,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(119,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(119,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(125,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(125,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(131,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(131,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(142,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(142,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(147,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(147,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(157,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(170,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(170,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(230,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(282,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(282,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML-HUBRiS-INTRO\1stDemo\main.cpp(287,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  1stDemo.vcxproj -> D:\SFML-HUBRiS-INTRO\x64\Debug\1stDemo.exe
